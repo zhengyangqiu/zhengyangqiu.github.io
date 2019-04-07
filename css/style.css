@@ -1,0 +1,56 @@
+.profilePic{max-width:100%;}
+.soundhomeIcon {color:red;}
+
+
+
+
+ .aboutbackground{
+	background-image: url("../img/background.jpeg");
+}
+
+
+.aboutbackground1{
+    background-image: url("../img/cinemagraph.gif");
+}
+
+
+.aboutbackground1{
+	position:fixed;
+	right:0;
+	bottom:0;
+	width:auto;
+	min-width: 100%;
+	height:auto;
+	min-height: 100%;
+	background-size: cover;
+	z-index: -100;
+
+
+
+}
+
+.card{
+	margin-top:10px;
+}
+
+h2{
+	font-family: 'Ubuntu',cursive;
+}
+.profileText {font-family: 'Roboto Mono',cursive;
+}
+.customNav{background-color: black;
+
+}
+
+
+.customcolor {
+	color: white;
+}
+.navItemSpacing{
+	padding-right:10px;
+}
+
+.stretchRow{height:100vh;
+}
+.middleColumn{margin:auto;
+}
